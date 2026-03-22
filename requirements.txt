@@ -1,0 +1,18 @@
+You must do the following before running the script.
+
+Open CMD, type the following command and press Enter:
+nano requirements.txt
+
+Paste this exact list into the editor:
+
+alpaca-py 
+
+pandas
+
+tradingview-screener
+
+requests
+
+pytz 
+
+Press Ctrl + O, Enter, and Ctrl + X to save 
